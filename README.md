@@ -15,7 +15,7 @@ As you know espresso tests can be flaky when the animation is on. Then, I create
 
 ### Packal
 
-1.  Download the **.alfredworkflow** file from Packal (wait for revision).
+1.  Download the **.alfredworkflow** file from [Packal](http://www.packal.org/workflow/android-espresso).
 2.  Double click to install
 
 ## How to configure
